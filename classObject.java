@@ -9,7 +9,7 @@ class Calculator                   //class
 }
 
 public  class classObject {
-    public static void main( String a[])
+    public static void main( String a[]) 
 
     {
         int num1=6;

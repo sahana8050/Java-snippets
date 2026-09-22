@@ -3,7 +3,7 @@ public class forLoop {
 
     {
        // for (int i=1; i<=7;i++) 
-       int i=1;
+       int i=1; 
         for(;i<7;)
         {
             System.out.println("day " +i);

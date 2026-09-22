@@ -9,4 +9,4 @@ public class primitive {
             short s = 558;
 
     
-}
+} 

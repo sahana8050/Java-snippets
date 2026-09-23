@@ -7,7 +7,7 @@ if (arr0.equals("green"))
     
 {
     System.out.println("green found.");
-}
+} 
 else
 {
     System.out.println(" green not found.");

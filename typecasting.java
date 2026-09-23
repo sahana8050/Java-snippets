@@ -5,7 +5,7 @@ public class typecasting {
      //byte b= 127;
     //int n=(int)b;
       //int j = 257;
-      //byte b=(byte)j;
+      //byte b=(byte)j; 
 
       //float f =7.8f;
       //int t = (int)f;

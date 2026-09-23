@@ -5,7 +5,7 @@ public class functions {
         System.out.print(answer);
     }
         public static int get_sum(int num1, int num2)
-    {
+    { 
         return num1 + num2;
     }
            

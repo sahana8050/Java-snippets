@@ -10,7 +10,7 @@ public class doWhile
             System.out.println("hi" + i);
 
         }
-        while(i<=4);
+        while(i<=4); 
             i++;
     }
     

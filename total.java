@@ -7,7 +7,7 @@ public class total {
         int pg=5021;
         int food=3565;
         int travell=1545;
-        int total= pg+food+travell;
+        int total= pg+food+travell; 
         System.out.print(total);
     }
     {

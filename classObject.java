@@ -5,11 +5,11 @@ class Calculator                   //class
     {
         int r =n1+n2;
         return r;
-    }             //object can add two values
+    }             //object can add two values 
 }
 
 public  class classObject {
-    public static void main( String a[])
+    public static void main( String a[]) 
 
     {
         int num1=6;

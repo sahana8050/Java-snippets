@@ -5,7 +5,7 @@ class Calculator                   //class
     {
         int r =n1+n2;
         return r;
-    }             //object can add two values
+    }             //object can add two values 
 }
 
 public  class classObject {

@@ -1,8 +1,10 @@
 public class Student_details {
     public static void main(String[] args)
     {
-        static void  printStudentDetails(int studentID)
-        {
+        
+      
+       
+    {
           String name = "sahana";
            int age = 18;
            int grade=76;
@@ -16,7 +18,7 @@ public class Student_details {
            System.out.println(isRegulartoschool);
 
            }}
+        }
 
+        
 
-    
-}

@@ -6,7 +6,7 @@ public class AddingNumber {
         int c= a+b;
         
         System.out.print(c);
-    }
+    } 
 }
 
         

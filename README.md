@@ -1,4 +1,3 @@
-# Java-snippets
 # ☕ Java Snippets
 
 A collection of Java programs, code snippets, and examples created while learning Java programming. This repository serves as a personal reference and practice guide covering Java fundamentals and gradually moving toward advanced concepts.

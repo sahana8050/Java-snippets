@@ -6,4 +6,4 @@ public class Operator {
         //Right shift mean divide by 2 value will decrease
     }  //readability also matters in code  
     
-}
+} 

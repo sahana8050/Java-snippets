@@ -18,7 +18,7 @@ Java-Snippets/
 │
 ├── Basics/
 ├── Operators/
-├── Conditions/
+├── Conditional Statements/
 ├── Loops/
 ├── Functions/
 ├── Arrays/

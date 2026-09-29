@@ -15,20 +15,21 @@ A collection of Java programs, code snippets, and examples created while learnin
 
 ```
 Java-Snippets/
-│
-├── Basics/
-├── Operators/
-├── Conditional Statements/
-├── Loops/
-├── Functions/
-├── Arrays/
-├── Strings/
-├── OOP/
-├── Collections/
-├── ExceptionHandling/
-├── FileHandling/
-├── PracticePrograms/
-└── README.md
+
+|--- Basics/
+|--- Operators/
+|--- Conditional Statements/
+|--- Loops/
+|--- Functions/
+|--- Arrays/
+|-- Strings/
+|---Recursion/
+|---OOP/
+|--- Collections/
+|--- ExceptionHandling/
+|--- FileHandling/
+|--- PracticePrograms/
+|--- README.md
 ```
 
 > The folder structure may evolve as more Java concepts and examples are added.

@@ -15,13 +15,7 @@ public class Recursion {
             System.out.println(number);
             countdown(number-1);
         }
-     
-
-
-
-   
-    
-    }
+     }
 
     
 

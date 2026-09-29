@@ -9,13 +9,14 @@ public class Recursion {
      
         static void countdown(int number){
             if(number==0){
-                System.out.println("finished");
+                System.out.println("finished!");
                 return;
             }
             System.out.println(number);
             countdown(number-1);
         }
-     }
+    }
+
 
     
 

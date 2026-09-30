@@ -101,6 +101,62 @@ Hello, Java!
 - Understand Object-Oriented Programming
 - Build real-world Java applications
 
+- ## 🔧 Git Commands
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/<your-username>/java-snippets.git
+```
+
+### Navigate to the Project
+
+```bash
+cd java-snippets
+```
+
+### Check Repository Status
+
+```bash
+git status
+```
+
+### Add All Files
+
+```bash
+git add .
+```
+
+### Add a Specific File
+
+```bash
+git add FileName.java
+```
+
+### Commit Changes
+
+```bash
+git commit -m "Add recursion examples"
+```
+
+### Push Changes
+
+```bash
+git push origin main
+```
+
+### Pull Latest Changes
+
+```bash
+git pull origin main
+```
+
+### View Commit History
+
+```bash
+git log --oneline
+```
+
 ## 🤝 Contributions
 
 Suggestions and improvements are always welcome. Feel free to fork the repository, create a branch, and submit a pull request.

@@ -7,8 +7,11 @@ public class Recursive_4 {
         if (number==0)
             return;
         {
-            System.out.println("java"+number);
+            System.out.println("before the recursive call "+number);
             printnumbers(number-1);
+
+            
+            System.out.println("after the recursive call "+number); //this statement will be executed after the recursive call is completed
         
     }
 

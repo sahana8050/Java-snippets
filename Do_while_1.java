@@ -1,4 +1,4 @@
-public class Do_while {
+public class Do_while_1 {
     public static void main(String[] args)
     {
         int i=0;

@@ -1,4 +1,4 @@
-public class doWhile 
+public class DoWhile_2 
 {
 
 

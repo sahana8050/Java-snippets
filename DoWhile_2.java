@@ -5,7 +5,7 @@ public class DoWhile_2
 
     public static void main(String a[])
     {
-        int i = 5;
+        int i = 5; 
         do{
             System.out.println("hi" + i);
 

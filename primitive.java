@@ -1,5 +1,5 @@
 public class primitive {
-    int num1 = 9;
+    int num1 = 9; 
             byte by = 127;
             float f = 5.8f;
             double d = 5.8;

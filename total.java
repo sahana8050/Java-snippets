@@ -3,7 +3,7 @@ public class total {
     public static void main (String arr[])
 
     {
-
+ 
         int pg=5021;
         int food=3565;
         int travell=1545;

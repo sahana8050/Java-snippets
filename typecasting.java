@@ -8,7 +8,7 @@ public class typecasting {
       //byte b=(byte)j; 
 
       //float f =7.8f;
-      //int t = (int)f;
+      //int t = (int)f; 
 
       byte m = 30;
       byte l= 10;

@@ -3,7 +3,7 @@
 
     
 
-    public static void main (String arr[])
+    public static void main (String arr[]) 
 
     {
         int n1 = 10;

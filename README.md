@@ -9,7 +9,7 @@ A collection of Java programs, code snippets, and examples created while learnin
 - Input and Output
 - Methods (Functions)
 - Strings
-  
+   
 
 ## 📂 Repository Structure
 
@@ -29,6 +29,7 @@ Java-Snippets/
 |--- ExceptionHandling/
 |--- FileHandling/
 |--- PracticePrograms/
+|--- patterns/
 |--- README.md
 ```
 

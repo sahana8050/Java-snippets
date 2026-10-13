@@ -10,7 +10,7 @@ public class patterns_4 {
             {
                 System.out.print("*");
             }
-            System.out.println("");
+            System.out.println("--");
         }
 
         

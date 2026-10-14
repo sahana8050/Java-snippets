@@ -1,6 +1,6 @@
 public class patterns_4 {
     public static void main(String[] args){
-        int[] numbers={1, 2, 3, 4};
+        int[] numbers={8,7,6};
         printStarsOfArray(numbers);
     }
     public static void printStarsOfArray(int[]numbers){
@@ -9,7 +9,7 @@ public class patterns_4 {
             for(int count=1;count<numbers[index];count++)
                 
             
-           System.out.print("--");
+           //System.out.print("--");
             {
                 System.out.print("*");
             }

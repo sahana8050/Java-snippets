@@ -7,11 +7,11 @@ public class patterns_2 {
         for(int index=0;index<numbers.length;index++)
         {
             for(int count=1;count<=numbers[index];count++)
-            {
+             
                 System.out.print("*");
             }
             System.out.println("-");
 
     }
     
-    }}
+    }

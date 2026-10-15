@@ -5,7 +5,7 @@ public class patterns_4 {
     }
     public static void printStarsOfArray(int[]numbers){
         for(int index=0;index<numbers.length;index++)
-        {
+        { 
             for(int count=1;count<numbers[index];count++)
                 
             

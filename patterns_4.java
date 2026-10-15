@@ -9,7 +9,7 @@ public class patterns_4 {
             for(int count=1;count<numbers[index];count++)
                 
             
-           //System.out.print("--");
+           //System.out.print("--"); 
             {
                 System.out.print("*"); 
             }

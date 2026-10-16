@@ -4,7 +4,7 @@ public class datatype {
 
     int n = 217;
 
-    {
+    { 
         System.out.print(n);
     }
     

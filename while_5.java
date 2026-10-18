@@ -6,6 +6,6 @@ public class while_5{
             System.out.println(i);
             i=i+2;
         }
-    }
+    } 
     
 }

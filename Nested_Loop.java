@@ -4,7 +4,7 @@ public class Nested_Loop {
             for(int j=0;j<=10;j++)
             {
                System.out.println("i=" + i + ", j=" + j); 
-            }
+            } 
         }
 
 

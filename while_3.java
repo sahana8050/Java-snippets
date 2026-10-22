@@ -4,7 +4,7 @@ public class while_3 {
         while(i<20)
         {
             System.out.println(i);
-            i+=2;
+            i+=2; 
         }
     }
     

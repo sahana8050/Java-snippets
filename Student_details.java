@@ -7,7 +7,7 @@ public class Student_details {
     {
           String name = "sahana";
            int age = 18;
-           int grade=76;
+           int grade=76; 
            double CGPA=8.2;
            boolean isRegulartoschool=true;
 

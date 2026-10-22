@@ -7,7 +7,7 @@ public static void main (String[] args){  // points to remember start, stop,step
       System.out.println(i);
       i++; 
 
-   }
+   } 
   
    }
 }

@@ -1,7 +1,8 @@
-public class type_casting {             //implicit type casting means converting small data type into large         
+public class type_casting {  //implicit type casting means converting small data type into large
+                             //wedening         
     public static void main(String[] args){
         int a=10;
-        double b=a;
+        double b=a; //impicit 
         {
             System.out.print(b);
         }

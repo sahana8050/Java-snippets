@@ -5,7 +5,7 @@ public class function {
     }
 
         static int laptop_cost(int cost) {
-            return cost;
+            return cost; 
         }
 
     static void laptop_brand(String brand) {

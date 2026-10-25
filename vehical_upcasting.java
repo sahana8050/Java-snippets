@@ -14,7 +14,7 @@ class Car extends
 vehical{
     void sound()
     {
-        System.out.println("giving good miliage");
+        System.out.println(" car giving good miliage");
     }
  
 }

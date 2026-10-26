@@ -25,6 +25,14 @@ class laptop{
         }
 
     }
+        class Lenova extends
+    laptop{
+        void good()
+        
+            {
+            System.out.println("best for early users");
+        }
+    }
 
 public class laptop_list {
     public static void main(String[] args ){
@@ -34,6 +42,10 @@ public class laptop_list {
         laptop  dell=new Dell();
           dell.best();
         System.out.print("");
+        laptop  lenova =new Lenova();
+          lenova.best();
+        System.out.print("");
+
 
         
     }

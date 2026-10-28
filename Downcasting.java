@@ -24,6 +24,8 @@ public class Downcasting {
 
         d.bark();
     }
-}//converting parent class reference to child class referense  using explicite casta
+}
+
+//converting parent class reference to child class referense  using explicite casta
     
 

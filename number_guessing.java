@@ -9,7 +9,7 @@ public class number_guessing {
 
                 else
                     {
-                    System.out.println("guess is wrong");
+                    System.out.println("your guess is wrong try again");
                 }
             }
 

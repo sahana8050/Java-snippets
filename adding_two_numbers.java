@@ -6,11 +6,12 @@ public class adding_two_numbers {
 
         System.out.println("Enter first number");
         int number= object.nextInt();
-        System.out.println(number);
+        
+        System.out.println("Enter second number");
         int number1= object.nextInt();
-        System.out.println(number1);
+      
         int sum=number+number1;
-        System.out.println(sum);
+        System.out.println("Sum of two integers is  " +sum);
 
         object.close();
 

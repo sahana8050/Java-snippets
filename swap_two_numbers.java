@@ -4,7 +4,7 @@ public class swap_two_numbers {
 
         int a = 10;
         int b = 20;
-        int temp;
+        int temp; 
 
         temp = a;
         a = b;

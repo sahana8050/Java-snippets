@@ -2,7 +2,7 @@ public class functions {
     public static void main(String a[])
     {
         int answer = get_sum(10, 20);
-        System.out.print(answer);
+        System.out.print(answer); 
     }
         public static int get_sum(int num1, int num2)
     { 

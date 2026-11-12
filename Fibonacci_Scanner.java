@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Fibonacci_Scanner{
+public class Fibonacci_Scanner{ ////each number is the sum of the previous two numbers.
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
 

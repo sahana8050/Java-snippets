@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class Fibonacci_s{
+public class Fibonacci_s{ ////each number is the sum of the previous two numbers.
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
 
         Scanner sc = new Scanner(System.in);
 

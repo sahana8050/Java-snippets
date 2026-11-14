@@ -1,37 +1,21 @@
 public class Amstrong_number {
-    
-
-
-
     public static void main(String[] args) {
 
-        // Number to check
-        int num = 2;
+        int num=153;
+        int original=num;
+        int sum=0;
 
-        // Store the original number
-        int original = num;
-
-        // Variable to store the sum
-        int sum = 0;
-
-        // Repeat until the number becomes 0
-        while (num > 0) {
-
-            // Get the last digit
-            int digit = num % 10;
-
-            // Cube the digit and add it to sum
-            sum = sum + (digit * digit * digit);
-
-            // Remove the last digit
-            num = num / 10;
+        while(num>0){
+            int n=num%10;
+            sum=sum+(n*n*n);
+            num=num/10;
+        }
+        if(sum==original){
+            System.out.println( original + " is an Amstrong number");
+        }
+        else
+        {
+            System.out.println( original +" is not an Amstrong number");
         }
 
-        // Check if the sum is equal to the original number
-        if (sum == original) {
-            System.out.println("Armstrong Number");
-        } else {
-            System.out.println("Not Armstrong Number");
-        }
-    }
-}
+    }}

@@ -1,5 +1,5 @@
 public class Amstrong_number {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  // Amstrong number is sum of cube of given number should be equal to original number example 153 1cube 5 cube 3 cube sum=153
 
         int num=153;
         int original=num;

@@ -7,7 +7,6 @@ public class star_pattern_in_loops {
                 System.out.print("* ");
             }
 
-            System.out.println();
+            System.out.println();F
         }
     }
-}

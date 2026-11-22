@@ -23,13 +23,15 @@ Java-Snippets/
 |--- Functions/
 |--- Arrays/
 |-- Strings/
-|---Recursion/
+|---Recursion/ 
 |---OOP/
 |--- Collections/
 |--- ExceptionHandling/
 |--- FileHandling/
 |--- PracticePrograms/
-|--- patterns/
+|--- patterns
+|--- Methods
+|---Upcasting/Downcasting
 |--- README.md
 ```
 

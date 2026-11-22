@@ -1,7 +1,7 @@
 public class Method_Overloading_in_methods {
     static void method(int a, int b){
     int add= a+b;{
-        System.out.println("addition of numbers is " + add);
+        System.out.println("addition of numbers is " + add); 
     }
 }
 
